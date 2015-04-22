@@ -32,6 +32,10 @@
     table-layout: fixed;
 }
 
+.board-container-compact #board {
+	table-layout: auto;
+}
+
 #board th {
     width: 120px; /* Width of swimlane column */
 }
